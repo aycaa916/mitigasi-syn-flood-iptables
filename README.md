@@ -32,4 +32,4 @@ Repositori ini berisi dokumentasi, simulasi, dan skrip mitigasi serangan **Denia
 
 ### 📄 Dokumentasi Lengkap
 Laporan lengkap tugas akhir dapat diunduh pada repositori ini:
-👉[Download Laporan Tugas Akhir (PDF)](./laporan-tugas-akhir.pdf)
+👉👉 [Download Laporan Tugas Akhir (PDF)](<./laporan tugas akhir.pdf>)
